@@ -4,9 +4,9 @@
 ## ✅ 이번주
  * leading member : 고민석 
 
- * topic : 시간 복잡도
+ * topic : 버블 정렬
  
- * date : 22/01/26
+ * date : 22/02/04
 
 ## ✅ 1주차 채점해주는 웹사이트
 https://programmers.co.kr/learn/courses/30/lessons/72412
