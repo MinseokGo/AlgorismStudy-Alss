@@ -8,8 +8,8 @@
  
  * date : 22/02/04
 
-## ✅ 1주차 채점해주는 웹사이트
-https://programmers.co.kr/learn/courses/30/lessons/72412
+## ✅ 
+
 
 ## ✅ 소스코드 파일 이름 규칙
 
