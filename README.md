@@ -9,4 +9,4 @@
 ## ✅ 활동 기록
  * Week 1(1.29 ~ 2.4) : 시간복잡도
  * Week 2(2.5 ~ 2.11) : 버블정렬
- * to be continue
+ * to be continue...
