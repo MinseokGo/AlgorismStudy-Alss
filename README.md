@@ -3,7 +3,7 @@
 
 ## ✅ 이번주
  * leading member : 조종범
- * topic : 
+ * topic : 이진 탐색 트리
  * date : 22/02/11 ~
 
 ## ✅ 활동 기록  
